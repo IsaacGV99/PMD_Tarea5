@@ -127,3 +127,4 @@ unsigned long indexString(Type data, unsigned long size){
 		index+=v.texto1[k];
 	return index%size;
 }
+
